@@ -1,6 +1,6 @@
-## Movie Website React | U-flix film
+# Movie Website React | U-flix film
 
-# react-movie-v5
+## react-movie-v5
 
     Responsive React Movies App With API
     - React js create-react-app
@@ -10,11 +10,11 @@
     - sass pre processor
     
 
-# API themoviedb
+## API themoviedb
 
    API: https://www.themoviedb.org/
 
-# Resource
+## Resource
 
     Google font: https://fonts.google.com/
 
@@ -22,12 +22,12 @@
 
     Images: https://unsplash.com/
 
-# Deploy by Vercel
+## Deploy by Vercel
 
     https://vercel.com/
 
 
-# Preview
+## Preview
 
 ![alt text](?raw=true)
 
