@@ -29,6 +29,8 @@
 
 ## Preview
 
-![alt text](?raw=true)
+![alt text](https://github.com/muslim2210/react-movie-v5/blob/master/public/react-movie-review.png?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/muslim2210/react-movie-v5/blob/master/public/localhost_3000_.png?raw=true)
+
+![alt text](https://github.com/muslim2210/react-movie-v5/blob/master/public/localhost_3000_movie.png?raw=true)
