@@ -12,7 +12,11 @@
 
     &__logo {
       @include flex(center, center);
-      margin-bottom: 3rem;
+      margin-bottom: 2rem;
+
+      img {
+        width: 200px;
+      }
     }
 
     &__menus {
